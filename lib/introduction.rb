@@ -5,5 +5,5 @@ def something(name)
 end
 
 def something(name, language)
-  puts "hello this is an example of a #{argument_one} and #{argument_two}"
+  puts "hello my name is #{name} and i speak, #{language}"
 end
